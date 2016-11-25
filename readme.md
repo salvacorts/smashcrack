@@ -1,7 +1,4 @@
-# Smash Crack
-<p align="center">
-[![logo.png](https://s17.postimg.org/o6qoc56yn/logo.png)](https://postimg.org/image/ti5kwut17/)
-</p>
+[![logo.png](https://s17.postimg.org/5b2g8mg73/logo.png)](https://postimg.org/image/dgki6s4fv/)
 
 Smash Crack is a web framework to encrypt text, identify encryption algorithms and attemp to crack encrypted text.
 
