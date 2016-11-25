@@ -1,4 +1,4 @@
-[![logo.png](https://s17.postimg.org/5b2g8mg73/logo.png)](https://postimg.org/image/dgki6s4fv/)
+->[![logo.png](https://s17.postimg.org/5b2g8mg73/logo.png)](https://postimg.org/image/dgki6s4fv/)<-
 
 **SmashCrack** is a web framework to encrypt text, identify encryption algorithms and attemp to crack encrypted text.
 
