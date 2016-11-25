@@ -37,7 +37,7 @@ sudo pacman -S mysql-python		# Arch Linux based systems
 
 This proyect was tested on Ubuntu over Lighttpd with the following configuration file:
 
-```json
+```r
 server.document-root        = "/var/www/web/public_html/"
 server.upload-dirs          = ( "/var/cache/lighttpd/uploads" )
 server.errorlog             = "/var/log/lighttpd/error.log"
