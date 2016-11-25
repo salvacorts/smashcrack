@@ -11,6 +11,8 @@ I started this project on highschool so although I'm not very prout of this code
 - Port this project to Django
 - Upload the project to a reliable server 
 - Review source code and rewrite it in a more professional way using Google's python style guide
+- Fix MySQL database use.
+- Fix some minor bugs
 
 ### Get encrypted hashes from plain text
 
