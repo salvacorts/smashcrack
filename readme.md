@@ -32,5 +32,6 @@ The next main goal is to port this project to Django and upload ir to a reliable
 #####Author:
 
 - ***Salva Corts***
-- [***@salvacorts***](twitter.com/salvacorts)
+- [***@salvacorts***](www.twitter.com/salvacorts)
 - ***salvacortsit@gmail.com***
+
