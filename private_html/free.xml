@@ -1,0 +1,8 @@
+<databases>
+	<database>
+	   <ip>127.0.0.1</ip>
+	   <name>smashcrack</name>
+	   <user>root</user>
+	   <pass>aluminosis</pass>
+	</database>
+</databases>

@@ -1,0 +1,472 @@
+2015-06-20 15:09:46: (log.c.164) server started 
+2015-06-20 15:09:46: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-06-20 17:55:41: (server.c.1442) [note] graceful shutdown started 
+2015-06-20 17:55:41: (server.c.1558) server stopped by UID = 0 PID = 6008 
+2015-07-04 17:42:19: (log.c.164) server started 
+2015-07-04 17:42:19: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-05 12:28:00: (server.c.1442) [note] graceful shutdown started 
+2015-07-05 12:28:00: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-19 00:19:20: (log.c.164) server started 
+2015-07-19 00:19:20: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-19 01:27:57: (server.c.1442) [note] graceful shutdown started 
+2015-07-19 01:27:57: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-19 13:33:42: (log.c.164) server started 
+2015-07-19 13:33:42: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-19 14:52:40: (server.c.1442) [note] graceful shutdown started 
+2015-07-19 14:52:40: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-19 14:53:15: (log.c.164) server started 
+2015-07-19 14:53:15: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-19 22:50:59: (log.c.164) server started 
+2015-07-19 22:50:59: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-20 01:14:06: (server.c.1442) [note] graceful shutdown started 
+2015-07-20 01:14:06: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-20 11:09:59: (log.c.164) server started 
+2015-07-20 11:09:59: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-20 14:02:01: (server.c.1442) [note] graceful shutdown started 
+2015-07-20 14:02:01: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-20 14:02:02: (log.c.164) server started 
+2015-07-20 14:02:02: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-20 14:06:04: (server.c.1442) [note] graceful shutdown started 
+2015-07-20 14:06:04: (server.c.1558) server stopped by UID = 0 PID = 11080 
+2015-07-20 15:22:37: (log.c.164) server started 
+2015-07-20 15:22:37: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-20 16:51:28: (server.c.1442) [note] graceful shutdown started 
+2015-07-20 16:51:28: (server.c.1558) server stopped by UID = 0 PID = 427 
+2015-07-20 16:51:29: (log.c.164) server started 
+2015-07-20 16:51:29: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-20 20:10:12: (server.c.1442) [note] graceful shutdown started 
+2015-07-20 20:10:12: (server.c.1558) server stopped by UID = 0 PID = 4327 
+2015-07-20 20:10:58: (log.c.164) server started 
+2015-07-20 20:10:58: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-21 14:10:05: (server.c.1558) server stopped by UID = 0 PID = 699 
+2015-07-21 14:10:06: (log.c.164) server started 
+2015-07-21 14:10:06: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-21 14:13:59: (server.c.1442) [note] graceful shutdown started 
+2015-07-21 14:13:59: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-21 14:24:30: (log.c.164) server started 
+2015-07-21 14:24:30: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-21 20:35:23: (server.c.1442) [note] graceful shutdown started 
+2015-07-21 20:35:23: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-21 20:35:25: (log.c.164) server started 
+2015-07-21 20:35:25: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-21 20:52:36: (server.c.1442) [note] graceful shutdown started 
+2015-07-21 20:52:36: (server.c.1558) server stopped by UID = 0 PID = 31007 
+2015-07-22 12:06:40: (log.c.164) server started 
+2015-07-22 12:06:40: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-22 12:11:34: (server.c.1558) server stopped by UID = 0 PID = 472 
+2015-07-22 12:11:35: (log.c.164) server started 
+2015-07-22 12:11:35: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-22 12:27:53: (server.c.1442) [note] graceful shutdown started 
+2015-07-22 12:27:53: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-22 12:28:30: (log.c.164) server started 
+2015-07-22 12:28:30: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-22 12:46:16: (server.c.1442) [note] graceful shutdown started 
+2015-07-22 12:46:16: (server.c.1558) server stopped by UID = 0 PID = 456 
+2015-07-22 12:46:54: (log.c.164) server started 
+2015-07-22 12:46:54: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-23 12:25:20: (server.c.1442) [note] graceful shutdown started 
+2015-07-23 12:25:20: (server.c.1558) server stopped by UID = 0 PID = 686 
+2015-07-23 12:59:54: (log.c.164) server started 
+2015-07-23 12:59:54: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-23 13:01:45: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-23 13:01:45: (log.c.164) server started 
+2015-07-23 13:01:45: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-23 13:09:13: (server.c.1442) [note] graceful shutdown started 
+2015-07-23 13:09:13: (server.c.1558) server stopped by UID = 0 PID = 1116 
+2015-07-23 13:09:14: (log.c.164) server started 
+2015-07-23 13:09:14: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-23 16:23:18: (server.c.1442) [note] graceful shutdown started 
+2015-07-23 16:23:18: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-23 16:23:20: (log.c.164) server started 
+2015-07-23 16:23:20: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-23 20:42:26: (server.c.1442) [note] graceful shutdown started 
+2015-07-23 20:42:26: (server.c.1558) server stopped by UID = 0 PID = 16349 
+2015-07-23 20:43:13: (log.c.164) server started 
+2015-07-23 20:43:13: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-23 20:48:32: (server.c.1442) [note] graceful shutdown started 
+2015-07-23 20:48:32: (server.c.1558) server stopped by UID = 0 PID = 469 
+2015-07-24 14:01:34: (log.c.164) server started 
+2015-07-24 14:01:34: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-24 14:02:06: (server.c.1442) [note] graceful shutdown started 
+2015-07-24 14:02:06: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-24 18:02:20: (log.c.164) server started 
+2015-07-24 18:02:20: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-25 14:27:45: (server.c.1442) [note] graceful shutdown started 
+2015-07-25 14:27:45: (server.c.1558) server stopped by UID = 0 PID = 467 
+2015-07-28 12:28:04: (log.c.164) server started 
+2015-07-28 12:28:04: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-29 16:19:51: (log.c.164) server started 
+2015-07-29 16:19:51: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-29 19:06:36: (server.c.1442) [note] graceful shutdown started 
+2015-07-29 19:06:36: (server.c.1558) server stopped by UID = 0 PID = 483 
+2015-07-30 00:54:11: (log.c.164) server started 
+2015-07-30 00:54:11: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 02:33:59: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-30 11:43:22: (log.c.164) server started 
+2015-07-30 11:43:22: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 12:07:43: (server.c.1558) server stopped by UID = 0 PID = 510 
+2015-07-30 12:08:18: (log.c.164) server started 
+2015-07-30 12:08:18: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 13:06:37: (log.c.164) server started 
+2015-07-30 13:06:37: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 13:15:10: (server.c.1442) [note] graceful shutdown started 
+2015-07-30 13:15:10: (server.c.1558) server stopped by UID = 0 PID = 513 
+2015-07-30 13:15:49: (log.c.164) server started 
+2015-07-30 13:15:49: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 13:23:58: (server.c.1442) [note] graceful shutdown started 
+2015-07-30 13:23:58: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-30 13:28:11: (log.c.164) server started 
+2015-07-30 13:28:11: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 14:16:32: (log.c.164) server started 
+2015-07-30 14:16:32: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 19:18:30: (server.c.1558) server stopped by UID = 0 PID = 500 
+2015-07-30 19:19:07: (log.c.164) server started 
+2015-07-30 19:19:07: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 19:26:33: (server.c.1442) [note] graceful shutdown started 
+2015-07-30 19:26:33: (server.c.1558) server stopped by UID = 0 PID = 431 
+2015-07-30 19:27:04: (log.c.164) server started 
+2015-07-30 19:27:04: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 19:36:12: (server.c.1442) [note] graceful shutdown started 
+2015-07-30 19:36:12: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-30 19:36:48: (log.c.164) server started 
+2015-07-30 19:36:48: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 20:14:36: (server.c.1442) [note] graceful shutdown started 
+2015-07-30 20:14:36: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-30 22:36:33: (log.c.164) server started 
+2015-07-30 22:36:33: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 23:25:35: (server.c.1442) [note] graceful shutdown started 
+2015-07-30 23:25:35: (server.c.1558) server stopped by UID = 0 PID = 471 
+2015-07-30 23:26:24: (log.c.164) server started 
+2015-07-30 23:26:24: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-30 23:30:39: (server.c.1442) [note] graceful shutdown started 
+2015-07-30 23:30:39: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-30 23:31:20: (log.c.164) server started 
+2015-07-30 23:31:20: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-07-31 03:28:25: (server.c.1442) [note] graceful shutdown started 
+2015-07-31 03:28:25: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-07-31 12:03:15: (log.c.164) server started 
+2015-07-31 12:03:15: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-01 21:17:44: (log.c.164) server started 
+2015-08-01 21:17:44: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-01 21:26:05: (server.c.1442) [note] graceful shutdown started 
+2015-08-01 21:26:05: (server.c.1558) server stopped by UID = 0 PID = 485 
+2015-08-07 17:18:28: (log.c.164) server started 
+2015-08-07 17:18:28: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-07 18:05:32: (server.c.1442) [note] graceful shutdown started 
+2015-08-07 18:05:32: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-08-13 21:39:28: (log.c.164) server started 
+2015-08-13 21:39:28: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-13 21:40:12: (server.c.1442) [note] graceful shutdown started 
+2015-08-13 21:40:12: (server.c.1558) server stopped by UID = 0 PID = 724 
+2015-08-13 21:46:01: (log.c.164) server started 
+2015-08-13 21:46:01: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-13 23:00:43: (server.c.1442) [note] graceful shutdown started 
+2015-08-13 23:00:43: (server.c.1558) server stopped by UID = 0 PID = 416 
+2015-08-16 18:32:19: (log.c.164) server started 
+2015-08-16 18:32:19: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-16 19:19:38: (server.c.1442) [note] graceful shutdown started 
+2015-08-16 19:19:38: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-08-16 19:20:16: (log.c.164) server started 
+2015-08-16 19:20:16: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-16 19:22:49: (server.c.1442) [note] graceful shutdown started 
+2015-08-16 19:22:49: (server.c.1558) server stopped by UID = 0 PID = 396 
+2015-08-16 19:25:17: (log.c.164) server started 
+2015-08-16 19:25:17: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-16 19:25:42: (server.c.1442) [note] graceful shutdown started 
+2015-08-16 19:25:42: (server.c.1558) server stopped by UID = 0 PID = 1 
+2015-08-16 19:29:32: (log.c.164) server started 
+2015-08-16 19:29:32: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-16 19:47:37: (server.c.1442) [note] graceful shutdown started 
+2015-08-16 19:47:37: (server.c.1558) server stopped by UID = 0 PID = 728 
+2015-08-18 00:10:22: (log.c.164) server started 
+2015-08-18 00:10:22: (server.c.1045) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 02:16:45: (server.c.1558) server stopped by UID = 0 PID = 555 
+2015-08-18 11:13:04: (log.c.164) server started 
+2015-08-18 11:13:04: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 11:20:19: (server.c.1447) [note] graceful shutdown started 
+2015-08-18 11:20:19: (server.c.1563) server stopped by UID = 0 PID = 763 
+2015-08-18 11:21:12: (log.c.164) server started 
+2015-08-18 11:21:12: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 12:11:25: (server.c.1447) [note] graceful shutdown started 
+2015-08-18 12:11:25: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-18 12:12:12: (log.c.164) server started 
+2015-08-18 12:12:12: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 10:50:37: (server.c.1447) [note] graceful shutdown started 
+2015-08-18 10:50:37: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-18 10:51:39: (log.c.164) server started 
+2015-08-18 10:51:39: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 10:52:00: (server.c.1447) [note] graceful shutdown started 
+2015-08-18 10:52:00: (server.c.1563) server stopped by UID = 0 PID = 904 
+2015-08-18 10:52:41: (log.c.164) server started 
+2015-08-18 10:52:41: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 10:58:29: (server.c.1447) [note] graceful shutdown started 
+2015-08-18 10:58:29: (server.c.1563) server stopped by UID = 0 PID = 882 
+2015-08-18 11:03:28: (log.c.164) server started 
+2015-08-18 11:03:28: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 14:19:08: (server.c.1447) [note] graceful shutdown started 
+2015-08-18 14:19:08: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-18 14:22:21: (log.c.164) server started 
+2015-08-18 14:22:21: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 17:05:39: (server.c.1447) [note] graceful shutdown started 
+2015-08-18 17:05:39: (server.c.1563) server stopped by UID = 0 PID = 845 
+2015-08-18 17:07:11: (log.c.164) server started 
+2015-08-18 17:07:11: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-18 18:12:11: (server.c.1447) [note] graceful shutdown started 
+2015-08-18 18:12:11: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-19 14:59:05: (log.c.164) server started 
+2015-08-19 14:59:05: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-19 15:32:51: (server.c.1447) [note] graceful shutdown started 
+2015-08-19 15:32:51: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-20 10:05:44: (log.c.164) server started 
+2015-08-20 10:05:44: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-20 20:23:03: (log.c.164) server started 
+2015-08-20 20:23:03: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-20 20:28:00: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-21 12:02:51: (log.c.164) server started 
+2015-08-21 12:02:51: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-21 17:19:03: (server.c.1447) [note] graceful shutdown started 
+2015-08-21 17:19:03: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-21 17:34:30: (log.c.164) server started 
+2015-08-21 17:34:30: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-21 17:47:09: (server.c.1447) [note] graceful shutdown started 
+2015-08-21 17:47:09: (server.c.1563) server stopped by UID = 0 PID = 584 
+2015-08-22 17:42:31: (log.c.164) server started 
+2015-08-22 17:42:31: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-23 08:54:54: (log.c.164) server started 
+2015-08-23 08:54:54: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-23 09:17:51: (server.c.1447) [note] graceful shutdown started 
+2015-08-23 09:17:51: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-23 15:10:49: (log.c.164) server started 
+2015-08-23 15:10:49: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-23 15:39:52: (server.c.1447) [note] graceful shutdown started 
+2015-08-23 15:39:52: (server.c.1563) server stopped by UID = 0 PID = 688 
+2015-08-24 22:57:54: (log.c.164) server started 
+2015-08-24 22:57:54: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-25 00:44:29: (server.c.1447) [note] graceful shutdown started 
+2015-08-25 00:44:29: (server.c.1563) server stopped by UID = 0 PID = 1048 
+2015-08-25 15:05:44: (log.c.164) server started 
+2015-08-25 15:05:44: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-25 15:22:10: (server.c.1447) [note] graceful shutdown started 
+2015-08-25 15:22:10: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-25 23:57:17: (log.c.164) server started 
+2015-08-25 23:57:17: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-26 02:09:06: (server.c.1447) [note] graceful shutdown started 
+2015-08-26 02:09:06: (server.c.1563) server stopped by UID = 0 PID = 561 
+2015-08-26 16:44:39: (log.c.164) server started 
+2015-08-26 16:44:39: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-26 18:35:49: (server.c.1447) [note] graceful shutdown started 
+2015-08-26 18:35:49: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-26 18:36:45: (log.c.164) server started 
+2015-08-26 18:36:45: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-26 18:53:26: (server.c.1447) [note] graceful shutdown started 
+2015-08-26 18:53:26: (server.c.1563) server stopped by UID = 0 PID = 512 
+2015-08-26 18:54:23: (log.c.164) server started 
+2015-08-26 18:54:23: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-26 23:59:33: (server.c.1447) [note] graceful shutdown started 
+2015-08-26 23:59:33: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-27 09:34:09: (log.c.164) server started 
+2015-08-27 09:34:09: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-27 10:22:18: (server.c.1447) [note] graceful shutdown started 
+2015-08-27 10:22:18: (server.c.1563) server stopped by UID = 0 PID = 645 
+2015-08-27 17:31:03: (log.c.164) server started 
+2015-08-27 17:31:03: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-28 10:47:33: (log.c.164) server started 
+2015-08-28 10:47:33: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-28 12:20:33: (log.c.164) server started 
+2015-08-28 12:20:33: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-28 17:23:49: (server.c.1447) [note] graceful shutdown started 
+2015-08-28 17:23:49: (server.c.1563) server stopped by UID = 0 PID = 631 
+2015-08-28 18:11:03: (log.c.164) server started 
+2015-08-28 18:11:03: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-28 18:27:49: (server.c.1447) [note] graceful shutdown started 
+2015-08-28 18:27:49: (server.c.1563) server stopped by UID = 0 PID = 1100 
+2015-08-28 21:03:43: (log.c.164) server started 
+2015-08-28 21:03:43: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-28 21:42:48: (server.c.1447) [note] graceful shutdown started 
+2015-08-28 21:42:48: (server.c.1563) server stopped by UID = 0 PID = 634 
+2015-08-28 22:58:49: (log.c.164) server started 
+2015-08-28 22:58:49: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-28 23:59:28: (server.c.1447) [note] graceful shutdown started 
+2015-08-28 23:59:28: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-29 00:00:46: (log.c.164) server started 
+2015-08-29 00:00:46: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-29 00:01:20: (server.c.1447) [note] graceful shutdown started 
+2015-08-29 00:01:20: (server.c.1563) server stopped by UID = 0 PID = 1042 
+2015-08-29 10:27:08: (log.c.164) server started 
+2015-08-29 10:27:08: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-29 11:02:12: (server.c.1447) [note] graceful shutdown started 
+2015-08-29 11:02:12: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-29 11:27:29: (log.c.164) server started 
+2015-08-29 11:27:29: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-29 11:34:48: (server.c.1447) [note] graceful shutdown started 
+2015-08-29 11:34:48: (server.c.1563) server stopped by UID = 0 PID = 1020 
+2015-08-29 11:37:38: (log.c.164) server started 
+2015-08-29 11:37:38: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-29 18:15:22: (server.c.1447) [note] graceful shutdown started 
+2015-08-29 18:15:22: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-29 18:16:14: (log.c.164) server started 
+2015-08-29 18:16:14: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-29 18:25:23: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-29 18:26:26: (log.c.164) server started 
+2015-08-29 18:26:26: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-29 19:48:18: (server.c.1447) [note] graceful shutdown started 
+2015-08-29 19:48:18: (server.c.1563) server stopped by UID = 0 PID = 1126 
+2015-08-29 19:49:04: (log.c.164) server started 
+2015-08-29 19:49:04: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-29 20:01:54: (server.c.1563) server stopped by UID = 0 PID = 1144 
+2015-08-29 20:15:31: (log.c.164) server started 
+2015-08-29 20:15:31: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-29 20:59:27: (server.c.1447) [note] graceful shutdown started 
+2015-08-29 20:59:27: (server.c.1563) server stopped by UID = 0 PID = 1149 
+2015-08-29 21:00:21: (log.c.164) server started 
+2015-08-29 21:00:21: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-30 10:36:40: (log.c.164) server started 
+2015-08-30 10:36:40: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-30 12:20:27: (server.c.1447) [note] graceful shutdown started 
+2015-08-30 12:20:27: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-30 22:52:21: (log.c.164) server started 
+2015-08-30 22:52:21: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-31 03:11:38: (server.c.1447) [note] graceful shutdown started 
+2015-08-31 03:11:38: (server.c.1563) server stopped by UID = 0 PID = 1163 
+2015-08-31 14:11:27: (log.c.164) server started 
+2015-08-31 14:11:27: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-31 16:04:57: (server.c.1447) [note] graceful shutdown started 
+2015-08-31 16:04:57: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-31 16:06:29: (log.c.164) server started 
+2015-08-31 16:06:29: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-08-31 19:34:26: (server.c.1447) [note] graceful shutdown started 
+2015-08-31 19:34:26: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-08-31 19:36:29: (log.c.164) server started 
+2015-08-31 19:36:29: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-01 02:27:12: (server.c.1447) [note] graceful shutdown started 
+2015-09-01 02:27:12: (server.c.1563) server stopped by UID = 0 PID = 1 
+2015-09-01 14:20:49: (log.c.164) server started 
+2015-09-01 14:20:49: (server.c.1044) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-01 14:53:32: (server.c.1447) [note] graceful shutdown started 
+2015-09-01 14:53:32: (server.c.1563) server stopped by UID = 0 PID = 1096 
+2015-09-01 14:54:20: (log.c.194) server started 
+2015-09-01 14:54:20: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-01 15:11:56: (server.c.1451) [note] graceful shutdown started 
+2015-09-01 15:11:56: (server.c.1567) server stopped by UID = 0 PID = 1042 
+2015-09-01 15:12:48: (log.c.194) server started 
+2015-09-01 15:12:48: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-01 15:19:34: (server.c.1451) [note] graceful shutdown started 
+2015-09-01 15:19:34: (server.c.1567) server stopped by UID = 0 PID = 1112 
+2015-09-01 15:20:26: (log.c.194) server started 
+2015-09-01 15:20:26: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-01 17:13:20: (server.c.1451) [note] graceful shutdown started 
+2015-09-01 17:13:20: (server.c.1567) server stopped by UID = 0 PID = 974 
+2015-09-01 17:14:20: (log.c.194) server started 
+2015-09-01 17:14:20: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-01 18:08:06: (server.c.1451) [note] graceful shutdown started 
+2015-09-01 18:08:06: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-01 18:09:03: (log.c.194) server started 
+2015-09-01 18:09:03: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-02 02:18:47: (log.c.194) server started 
+2015-09-02 02:18:47: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-02 12:08:27: (log.c.194) server started 
+2015-09-02 12:08:27: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-02 12:14:55: (server.c.1451) [note] graceful shutdown started 
+2015-09-02 12:14:55: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-02 12:15:49: (log.c.194) server started 
+2015-09-02 12:15:49: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-02 16:51:55: (log.c.194) server started 
+2015-09-02 16:51:55: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-02 17:38:42: (server.c.1451) [note] graceful shutdown started 
+2015-09-02 17:38:42: (server.c.1567) server stopped by UID = 0 PID = 708 
+2015-09-02 17:39:38: (log.c.194) server started 
+2015-09-02 17:39:38: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-02 18:17:15: (server.c.1451) [note] graceful shutdown started 
+2015-09-02 18:17:15: (server.c.1567) server stopped by UID = 0 PID = 1007 
+2015-09-02 19:43:33: (log.c.194) server started 
+2015-09-02 19:43:33: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-02 20:04:56: (server.c.1451) [note] graceful shutdown started 
+2015-09-02 20:04:56: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-03 10:08:04: (log.c.194) server started 
+2015-09-03 10:08:04: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-03 16:49:05: (log.c.194) server started 
+2015-09-03 16:49:05: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-03 17:47:26: (server.c.1451) [note] graceful shutdown started 
+2015-09-03 17:47:26: (server.c.1567) server stopped by UID = 0 PID = 1057 
+2015-09-05 17:42:31: (log.c.194) server started 
+2015-09-05 17:42:31: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-05 18:03:37: (server.c.1451) [note] graceful shutdown started 
+2015-09-05 18:03:37: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-05 18:07:43: (log.c.194) server started 
+2015-09-05 18:07:43: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-05 18:11:28: (server.c.1451) [note] graceful shutdown started 
+2015-09-05 18:11:28: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-05 18:11:30: (log.c.194) server started 
+2015-09-05 18:11:30: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-06 13:44:39: (server.c.1451) [note] graceful shutdown started 
+2015-09-06 13:44:39: (server.c.1567) server stopped by UID = 0 PID = 18776 
+2015-09-06 15:25:21: (log.c.194) server started 
+2015-09-06 15:25:21: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-06 23:01:52: (log.c.194) server started 
+2015-09-06 23:01:52: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-07 01:36:14: (server.c.1451) [note] graceful shutdown started 
+2015-09-07 01:36:14: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-09 18:59:14: (log.c.194) server started 
+2015-09-09 18:59:14: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-10 00:16:18: (server.c.1451) [note] graceful shutdown started 
+2015-09-10 00:16:18: (server.c.1567) server stopped by UID = 0 PID = 5698 
+2015-09-17 18:52:30: (log.c.194) server started 
+2015-09-17 18:52:30: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-18 00:58:54: (server.c.1451) [note] graceful shutdown started 
+2015-09-18 00:58:54: (server.c.1567) server stopped by UID = 0 PID = 15839 
+2015-09-20 15:25:31: (log.c.194) server started 
+2015-09-20 15:25:31: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-20 15:26:51: (server.c.1567) server stopped by UID = 0 PID = 29387 
+2015-09-20 15:26:52: (log.c.194) server started 
+2015-09-20 15:26:52: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-20 15:26:52: (server.c.1048) WARNING: unknown config-key: cgi.assign (ignored) 
+2015-09-20 15:26:54: (server.c.1451) [note] graceful shutdown started 
+2015-09-20 15:26:54: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-20 15:26:55: (log.c.194) server started 
+2015-09-20 15:26:55: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-20 15:26:55: (server.c.1048) WARNING: unknown config-key: cgi.assign (ignored) 
+2015-09-20 15:28:45: (server.c.1451) [note] graceful shutdown started 
+2015-09-20 15:28:45: (server.c.1567) server stopped by UID = 0 PID = 29578 
+2015-09-20 15:28:46: (log.c.194) server started 
+2015-09-20 15:28:46: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-20 22:46:32: (server.c.1451) [note] graceful shutdown started 
+2015-09-20 22:46:32: (server.c.1567) server stopped by UID = 0 PID = 29697 
+2015-09-20 22:58:01: (log.c.194) server started 
+2015-09-20 22:58:01: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-21 00:08:47: (server.c.1451) [note] graceful shutdown started 
+2015-09-21 00:08:47: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-21 08:40:58: (log.c.194) server started 
+2015-09-21 08:40:58: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-21 15:21:08: (server.c.1451) [note] graceful shutdown started 
+2015-09-21 15:21:08: (server.c.1567) server stopped by UID = 0 PID = 2124 
+2015-09-21 15:26:05: (log.c.194) server started 
+2015-09-21 15:26:05: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-21 18:37:25: (server.c.1451) [note] graceful shutdown started 
+2015-09-21 18:37:25: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-22 11:20:33: (log.c.194) server started 
+2015-09-22 11:20:33: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-22 20:11:52: (server.c.1451) [note] graceful shutdown started 
+2015-09-22 20:11:52: (server.c.1567) server stopped by UID = 0 PID = 1894 
+2015-09-22 21:20:24: (log.c.194) server started 
+2015-09-22 21:20:24: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-22 22:59:53: (server.c.1451) [note] graceful shutdown started 
+2015-09-22 22:59:53: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-09-23 12:31:56: (log.c.194) server started 
+2015-09-23 12:31:56: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-23 16:36:27: (log.c.194) server started 
+2015-09-23 16:36:27: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-09-23 21:10:37: (server.c.1451) [note] graceful shutdown started 
+2015-09-23 21:10:37: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-10-01 10:38:55: (log.c.194) server started 
+2015-10-01 10:38:55: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-10-01 13:21:22: (server.c.1451) [note] graceful shutdown started 
+2015-10-01 13:21:22: (server.c.1567) server stopped by UID = 0 PID = 15321 
+2015-10-05 17:18:13: (log.c.194) server started 
+2015-10-05 17:18:13: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-10-07 14:06:38: (log.c.194) server started 
+2015-10-07 14:06:38: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-10-07 16:01:07: (server.c.1451) [note] graceful shutdown started 
+2015-10-07 16:01:07: (server.c.1567) server stopped by UID = 0 PID = 1 
+2015-10-07 16:02:43: (log.c.194) server started 
+2015-10-07 16:02:43: (server.c.1048) WARNING: unknown config-key: compress.filetype (ignored) 
+2015-10-07 16:24:00: (server.c.1567) server stopped by UID = 0 PID = 1 

@@ -1,0 +1,180 @@
+<!--
+
+  _________                     .__    _________                       __
+ /   _____/ _____ _____    _____|  |__ \_   ___ \____________    ____ |  | __
+ \_____  \ /     \\__  \  /  ___/  |  \/    \  \/\_  __ \__  \ _/ ___\|  |/ /
+ /        \  Y Y  \/ __ \_\___ \|   Y  \     \____|  | \// __ \\  \___|    <
+/_______  /__|_|  (____  /____  >___|  /\______  /|__|  (____  /\___  >__|_ \
+        \/      \/     \/     \/     \/        \/            \/     \/     \/
+
+
+Coded with <3 by @SalvaCorts
+-->
+
+<html>
+    <head>
+    <link rel="shortcut icon" href="/images/lock.png" />
+    <link rel="stylesheet" type="text/css" href="/stylesheetORIG.css">
+    <link href='http://fonts.googleapis.com/css?family=Nova+Flat' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <!-- Place this tag in your head or just before your close body tag. -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    </head>
+    <body>
+        <title>Smash Crack</title>
+        <script>
+            $(document).ready(function(){
+                var disclaimer = "/disclaimer.txt";
+                var accepted = window.confirm("By using this tool you accept the Disclaimer\n\n\nCancel to read it")
+                if (!accepted) {
+                    location.replace(disclaimer);
+                }
+            })
+        </script>
+        <div id="header" class="container">
+            <div id="column-footer">
+                <a href="/index.html" style="padding: 0px;">
+                    <img src="/images/loguito.png"></img>
+                </a>
+            </div>
+            <div id="column-footer">
+                <nav style="visibility: visible; animation-name: fadeIn;" class="hidden-xs col-sm-10 text-right wow fadeIn" id="menu">
+                    <ul>
+                        <li>
+                            <a href="#about"><b>About</b></a>
+                        </li>
+                        <li>
+                            <a href="#blog-container"><b>Blog</b></a>
+                        </li>
+                        <li>
+                            <a href="#contact"><b>Contact</b></a>
+                        </li>
+                        <li>
+                            <a href="/disclaimer.txt"><b>Disclaimer</b></a>
+                        </li>
+                        <li>
+                            <a href="/hackers.txt"><b>Hackers</b></a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div id="search" class="container">
+            <p></p>
+            <div id="input" class="container">
+                <form method="get" action="/scripts/search.py">
+                    <input class="field" type="text" name="hash" placeholder=" Crack Your Hash">
+                    <select class="selecter" name="encryption">
+                        <option value="md5" selected>MD5</option>
+                        <option value="md4">MD4</option>
+                        <option value="sha1">SHA1</option>
+                        <option value="sha224">SHA224</option>
+                        <option value="sha256">sha256</option>
+                        <option value="sha384">sha384</option>
+                        <option value="sha512">sha512</option>
+                        <option value="ntlm">NTLM</option>
+                    <input id="btn" class="button" type="submit" value="Crack!" onclick="$('#loading').show();$('#preset').hide()">
+                </form>
+            </div>
+            <p></p>
+            <div id="input" class="container">
+                <form method="get" action="/scripts/hashid.py">
+                    <input class="field-special" type="text" name="hash" placeholder=" Identify Your Hash">
+                    <input id="btn" class="button" type="submit" value="Identify!" onclick="$('#loading').show();$('#preset').hide()">
+                </form>
+            </div>
+            <p></p>
+            <div id="input" class="container">
+                <form method="get" action="/scripts/hashcreator.py">
+                    <input class="field" type="text" name="word" placeholder=" Create Your Hash">
+                    <!--<input id="check" type="checkbox" name="DB" value="True" checked><span id="labelDB">DB</span></input>-->
+                    <select class="selecter" name="encryption">
+                        <option value="md5" selected>MD5</option>
+                        <option value="md4">MD4</option>
+                        <option value="sha1">SHA1</option>
+                        <option value="sha224">SHA224</option>
+                        <option value="sha256">sha256</option>
+                        <option value="sha384">sha384</option>
+                        <option value="sha512">sha512</option>
+                        <option value="ntlm">NTLM</option>
+                    <input id="btn" class="button" type="submit" value="Create!" onclick="$('#loading').show();$('#preset').hide()">
+                </form>
+            </div>
+            <div id="loading" style="display:none;">
+                <img src="/images/loading2.gif" alt=""></img>
+                <p>Working! It can take a while...<p>
+            </div>
+            <div id="preset">
+            <div id='password-matched'>
+             Million of cracked passwords!
+             </div>
+            <p>
+             Recover yours now
+            </p>
+            <p>
+            <p>
+            This tool is only made available for academic and research purposes.
+            </p>
+            </div>
+            <div id="github">
+              <a class="github-button" href="https://github.com/salvacorts/smashcrack" data-style="mega" data-count-href="/salvacorts/smashcrack/stargazers" data-count-api="/repos/salvacorts/smashcrack#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star salvacorts/smashcrack on GitHub">Star on Github</a>
+            </div>
+            <p>
+            <div id="arrow-index">
+                <a href="#contact">
+                    <img src="/images/arrow.png"></img>
+                </a>
+            </div>
+        </div>
+        <div id="contactForm">
+        <div id="contact">
+            <div class="content">
+                            <div id="wrap">
+                                <div class="box1">
+                                    <h2>Contact us</h2>
+                                  <form class="form" action="mailto:smashcrack@gmail.com" method="post">
+                                    <p class="name">
+                                      <input type="text" name="name" id="name" placeholder="Name"/>
+                                    </p>
+                                    <p class="email">
+                                      <input type="text" name="email" id="email" placeholder="E-mail"/>
+                                    </p>
+                                    <p class="web">
+                                      <input type="text" name="web" id="web" placeholder="Website"/>
+                                    </p>
+                                    <p class="text">
+                                      <textarea name="text" placeholder="Your message here"></textarea>
+                                    </p>
+                                    <p class="submit">
+                                      <input type="submit" value="send" />
+                                    </p>
+                                  </form>
+                                </div>
+                            </div>
+                        </div>
+        </div>
+        <div id="footer">
+            <div id="column-footer" class="container">
+                <div id="info">
+                    <a href="/humans.txt">About us</a>
+                    <a href="/disclaimer.txt">Disclaimer</a>
+                    <a href="/hackers.txt">Hackers</a>
+                </div>
+            </div>
+            <div id="column-footer" class="container">
+                    <div id="share-buttons">
+                        <a href="http://www.facebook.com/sharer.php?u=http://www.smashcrack.ml" target="_blank"><img src="/images/facebook.png" alt="Facebook" /></a>
+                        <a href="http://twitter.com/share?url==http://www.smashcrack.ml&text=SmashCrack&hashtags=OnlinePasswordCracker" target="_blank"><img src="/images/twitter.png" alt="Twitter" /></a>
+                        <a href="https://plus.google.com/share?url==http://www.smashcrack.ml" target="_blank"><img src="/images/google.png" alt="Google" /></a>
+                    </div>
+            </div>
+        </div>
+        </div>
+        <a href="#" class="scrollToTop"><img src="/images/go-top.png"></img></a>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js">Top</script>
+        <script src="/js/go-top.js"></script>
+    </body>
+</html>
