@@ -4,7 +4,7 @@
 
 It is based on Python and CGI, and it uses differents [open source projects](#openSource) to achieve it goals.
 
-I started this project on highschool so although I'm not very prout of this code, it works really good.
+I started this project on highschool so although it works fine, I'm not very prout of this code. I will update it! 
 
 ###### **TODOs**
 
