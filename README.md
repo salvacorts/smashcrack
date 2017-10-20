@@ -31,7 +31,6 @@ I started this project on highschool so although it works fine, I'm not very pro
 ##### Dependencies:
 
 ```sh
-pip install hashlib
 sudo apt install python-mysqldb # Ubuntu, Debian based systems
 sudo yum install MySQL-python	# Red Hat based systems
 sudo pacman -S mysql-python		# Arch Linux based systems
