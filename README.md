@@ -75,14 +75,14 @@ $HTTP["url"] =~ "^/scripts/" {
 
 ------
 
-#####Third party source: <a id="openSource"></a>
+##### Third party source: <a id="openSource"></a>
 
 [HashID](https://github.com/psypanda/hashID)
 
 [Findmyhash](https://code.google.com/archive/p/findmyhash/)
 
 -----
-#####Author:
+##### Author:
 
 - ***Salva Corts***
 - [***@salvacorts***](https://twitter.com/SalvaCorts)
