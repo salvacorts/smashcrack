@@ -31,7 +31,7 @@ I started this project on highschool so although it works fine, I'm not very pro
 ##### Dependencies:
 
 ```sh
-sudo pip install hashlib
+pip install hashlib
 sudo apt install python-mysqldb # Ubuntu, Debian based systems
 sudo yum install MySQL-python	# Red Hat based systems
 sudo pacman -S mysql-python		# Arch Linux based systems
@@ -39,7 +39,7 @@ sudo pacman -S mysql-python		# Arch Linux based systems
 
 This proyect was tested on Ubuntu over Lighttpd with the following configuration file:
 
-```r
+```
 server.document-root        = "/var/www/web/public_html/"
 server.upload-dirs          = ( "/var/cache/lighttpd/uploads" )
 server.errorlog             = "/var/log/lighttpd/error.log"
