@@ -1,10 +1,8 @@
-[![logo.png](https://s17.postimg.org/5b2g8mg73/logo.png)](https://postimg.org/image/dgki6s4fv/)
-
 **SmashCrack** is a web framework to encrypt text, identify encryption algorithms and attemp to crack encrypted text.
 
 It is based on Python and CGI, and it uses differents [open source projects](#openSource) to achieve it goals.
 
-I started this project on highschool so although it works fine, I'm not very prout of this code. I will update it! 
+I started this project on highschool so, although it works fine, I'm not very prout of the quality this code. I will update it! 
 
 ###### **TODOs**
 
